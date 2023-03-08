@@ -1,4 +1,5 @@
-# Assecor-Assessment-Backend-Test
+# Backend REST-Interface
 
-Dieses Projekt liefert eine Lösung für die Aufgabenstellung aus diesem Repository:
-https://github.com/Assecor-GmbH/assecor-assessment-backend
+Small Java project with REST-Interface implementation using dependency injection and some tests.
+
+Reads a CSV file with persons and returns them as JSON.
